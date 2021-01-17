@@ -1,4 +1,5 @@
 # <div align = "center"> Richard Dait </div>
+<center><img src="http://sba.shoreline.edu/wp-content/uploads/2015/09/DSC1161-194x300@2x.jpg" width="60" height="90" > </center>
 ### <div align = "center"> 425.786.9807 | richuwm3@uw.edu | Lynnwood, WA </div>
 &nbsp;
 #### CAREER PROFILE
