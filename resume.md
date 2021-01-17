@@ -1,4 +1,4 @@
-# <div align = "center"> Richard Dait </div>
+# Richard Dait
 ### <div align = "center"><img src="http://sba.shoreline.edu/wp-content/uploads/2015/09/DSC1161-194x300@2x.jpg" width="90" height="130" > </div> <div align = "center"> 425.786.9807 | richd@uw.edu | Lynnwood, WA </div>
 <br>
 <br>
