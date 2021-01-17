@@ -11,7 +11,7 @@
 - Assumed the challenging role of notary public, while excelling as a personal banker at Chase Bank.
 &nbsp;
 #### CORE COMPETENCIES AND TECHNICAL SKILLS</span>
- Basic Knowledge of Python (NumPy, Pandas, Scikit-Learn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Communication Skills (Written and Verbal)
+ Basic Knowledge of Python (NumPy, Pandas, Scikit-Learn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Communication Skills (Written and Verbal)
  Novice in SQL (author queries, manipulate databases)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detailed and Data Oriented
  Beginner Level in R (Statistical Inference, Web Application)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intellectually Curious
  Dabbled in HTML, CSS, Javascript, QGIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conflict Resolution, Problem Solving and Critical Thinking
