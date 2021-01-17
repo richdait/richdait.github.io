@@ -11,6 +11,7 @@
 - [Dean's List](https://registrar.washington.edu/students/quarterly-deans-list/seattle-recipients/) Distinction for Academic Excellence at the University of Washington (Winter, Spring and Autumn 2020).
 - Delivered several outstanding surveys for exemplary service at the Seattle FedEx.
 - Assumed the challenging role of notary public, while excelling as a personal banker at Chase Bank.
+
 #### CORE COMPETENCIES AND TECHNICAL SKILLS
  Basic Knowledge of Python (NumPy, Pandas, Scikit-Learn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excellent Communication Skills (Written and Verbal)
  Novice in SQL (author queries, manipulate databases)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Detailed and Data Oriented
