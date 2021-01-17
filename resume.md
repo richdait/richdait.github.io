@@ -1,4 +1,4 @@
-<div align = "center"> # **Richard Dait** </div>
+# <div align = "center"> Richard Dait </div>
 #### <center> 425.786.9807 | richuwm3@uw.edu | Lynnwood, WA</center>
 <br/>
 <span style="color: gray; font-weight:bold">CAREER PROFILE</span>
