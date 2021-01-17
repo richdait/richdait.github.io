@@ -1,6 +1,6 @@
 # <div align = "center"> Richard Dait </div>
 <div align = "center"><img src="http://sba.shoreline.edu/wp-content/uploads/2015/09/DSC1161-194x300@2x.jpg" width="90" height="130" > </div> <div align = "center"> 425.786.9807 | richuwm3@uw.edu | Lynnwood, WA </div>
-&nbsp;
+<br/>
 #### CAREER PROFILE
 
 > Highly motivated college student with over ten years of experience in customer service, retail banking and administrative support.
