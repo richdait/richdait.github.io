@@ -1,7 +1,7 @@
 # <div align = "center"> Richard Dait </div>
 ### <div align = "center"> 425.786.9807 | richuwm3@uw.edu | Lynnwood, WA </div>
-<br/>
-#### CAREER PROFILE  
+<br>
+#### CAREER PROFILE
 
 > Highly motivated college student with over ten years of experience in customer service, retail banking and administrative support.
 
