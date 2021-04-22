@@ -1,1 +1,1 @@
-# <center> richdait.github.io </center>
+https://richdait.github.io/
